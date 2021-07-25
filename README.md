@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img width="200px" src="https://cdn.sanity.io/images/wvk3aqii/production/74baa5bce8f78db41960a668b0bb7a3e069eb28f-800x800.png" />
 </div>
-
+ -->
 <h2 align="center">🌀 Hi, my name is Andrew Goodridge 🌀</h2>
 <h4 align="center">I'm a UX designer and front-end developer studying at SCAD.</h3>
 <p align="center">Check out my <a href="https://ndrewgood.com" target="_blank">website</a> to view all my projects!</p>
